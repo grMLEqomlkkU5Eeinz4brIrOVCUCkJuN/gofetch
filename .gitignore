@@ -1,5 +1,4 @@
 # Compiled binaries
-gofetch
 *.exe
 
 # Go artifacts
