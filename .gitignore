@@ -1,0 +1,13 @@
+# Compiled binaries
+gofetch
+*.exe
+
+# Go artifacts
+*.out
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
